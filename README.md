@@ -1,24 +1,11 @@
 # Roumen::Proxy
 
-TODO: Write a gem description
-
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'roumen-proxy'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install roumen-proxy
-
-## Usage
-
-TODO: Write usage instructions here
+```ruby
+bundle
+shotgun
+```
 
 ## Contributing
 
